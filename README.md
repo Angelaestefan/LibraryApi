@@ -15,7 +15,7 @@ A RESTful API for managing a library system built with Spring Boot and Oracle Da
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Angelaestefan/LibraryApi.git
 cd LibraryApi
 ```
 
